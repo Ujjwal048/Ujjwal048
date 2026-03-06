@@ -4,7 +4,7 @@
 ### 🏆 CKA Certified | ☁️ Cloud Enthusiast
 ### 🌍 Kochi, Kerala, India
 # 
-With over 2.5 years of experience, I am passionate about crafting scalable, resilient, and cost-efficient cloud-native solutions. I thrive on automation, seamless deployments, and workload optimization, ensuring peak performance and efficiency at every stage.
+With over 3.5 years of experience, I am passionate about crafting scalable, resilient, and cost-efficient cloud-native solutions. I thrive on automation, seamless deployments, and workload optimization, ensuring peak performance and efficiency at every stage.
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -13,7 +13,7 @@ With over 2.5 years of experience, I am passionate about crafting scalable, resi
 * 📜 Infrastructure as Code: Terraform | Helm 
 * 🔄 GitOps & Automation: ArgoCD 
 * 📊 Monitoring & Logging: Prometheus | Grafana | Loki 
-* ⚡ CI/CD: Github Actions | Bitbucket Pipelines 
+* ⚡ CI/CD: Jenkins | Github Actions | Bitbucket Pipelines 
 * 🌐 Networking & Ingress: Kong | Traefik
 * 💻 Virtualization: Proxmox
 
